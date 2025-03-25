@@ -33,9 +33,9 @@ pip install pandas numpy scikit-learn
 
 ## **📊 Contoh Output**  
 <img width="859" alt="image" src="https://github.com/user-attachments/assets/3dd13056-664a-4f5c-a278-4488b142a44f" />
-```
-Akurasi Model: 100%
-Prediksi untuk input [age <=30, income= medium, student=yes, credit_rating=fair]: Beli
-```
+
+
+## **Akurasi Model: 100%**
+**Prediksi untuk input [age <=30, income= medium, student=yes, credit_rating=fair]: Beli**
 
 
