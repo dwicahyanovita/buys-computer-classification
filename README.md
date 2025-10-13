@@ -38,4 +38,4 @@ pip install pandas numpy scikit-learn
 ## **Akurasi Model: 100%**
 **Prediksi untuk input [age <=30, income= medium, student=yes, credit_rating=fair]: Beli**
 
-Made with ❤️ by Dwi Cahya Novita and team.
+Dwi Cahya Novita and team untuk memenuhi tugas Penambangan Data
